@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## Problematic AI Image Generation
+[Article](https://www.wsj.com/tech/ai/mickey-mouse-smoking-how-ai-image-tools-are-generating-new-content-moderation-problems-da90148e?mod=ai_more_article_pos22)
+
+As we move towards an AI driven world, we must figure out a way to regulate this new technology. The article discusses the negative consequences of unregulated AI technologies. People have found a way to manipulate AI image generators to produce photos that inaccurately depict politicians and beloved childhood characters performing inappropriate acts. As a result of how real these images look, this technology has become a concern for spreading misinformation. I am curious to see if it will play a role in this upcoming election. At this point, rules and regulations must be implemented in order to prevent more servere consequences from the AI generated images. 
