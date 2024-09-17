@@ -9,3 +9,14 @@ I read an article on **[The New Stack](https://thenewstack.io/which-programming-
 ## Yikai Ding's Thoughts
 
 This article is interesting because it challenges the common belief that faster code is always more energy-efficient. It reveals how different programming languages vary in their use of electricity, speed, and memory. This paper also demonstrates that the choice of programming language may impact power consumption, which is crucial for developers working on resource-constrained systems.
+
+## Andrew Jiang's Thoughts
+
+It is very interesting because I never considered the energy consumption in correlation with fast a language is. I did know that C++ was one of the most efficient and fastest language. It was surprising seeing that C++ and C were not the more energy efficient. I think that this study will help developers in the future be able to think of not only how fast a language can run but now can also take into account the energy consumption levels as well to potentially reduce the electricity levels which can help developers who are working on resource-constrained or extremely complex systems. I like that the researchers concluded that they couldn't agree on which programming language is the best. I agree with this because each language has different uses, with its own advantages and disadvantages, beyond just how fast or energy-efficient it is.
+
+
+
+
+
+
+
