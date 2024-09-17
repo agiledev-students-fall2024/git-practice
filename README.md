@@ -13,3 +13,13 @@ Furthermore, the use of a **variational autoencoder** (VAE) to compress and deco
 ### Conclusion
 
 Overall, Stable Diffusion represents a significant leap forward in making powerful text-to-image generation technologies more accessible and manageable, paving the way for widespread adoption and creative exploration.
+
+# Harry Doo's comments
+
+## Democratization of high qwuality tools
+
+I really like how high quality tools are accessible to everyone, I personally use variational autoencoder to make some low res images look better.'
+
+It's pretty coold out stable diffusion doesn't require high capacity hardware and is able to understand what humans think are cool. There is already a lot of very creative works being created by individuals, but this begs the question: is this ethical being that it is trained on other people's work? Once this legal issue is resolved we may see this a lot more from larger corporate entities.
+
+I do agree that stable diffusion is the next step towards creative exploration and am excited to see what works the future holds!
