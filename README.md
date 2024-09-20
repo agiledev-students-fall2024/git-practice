@@ -1,6 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 # Article About Tech Startup
 
 ## Title: Grok Image Generator by Black Forest Labs Raising $100M at $1B Valuation
