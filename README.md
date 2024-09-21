@@ -23,3 +23,13 @@ I really like how high quality tools are accessible to everyone, I personally us
 It's pretty coold out stable diffusion doesn't require high capacity hardware and is able to understand what humans think are cool. There is already a lot of very creative works being created by individuals, but this begs the question: is this ethical being that it is trained on other people's work? Once this legal issue is resolved we may see this a lot more from larger corporate entities.
 
 I do agree that stable diffusion is the next step towards creative exploration and am excited to see what works the future holds!
+
+# Harry Dooo's comments 2.0 (Using correct account)
+
+## Democratization of high qwuality tools
+
+I really like how high quality tools are accessible to everyone, I personally use variational autoencoder to make some low res images look better.'
+
+It's pretty coold out stable diffusion doesn't require high capacity hardware and is able to understand what humans think are cool. There is already a lot of very creative works being created by individuals, but this begs the question: is this ethical being that it is trained on other people's work? Once this legal issue is resolved we may see this a lot more from larger corporate entities.
+
+I do agree that stable diffusion is the next step towards creative exploration and am excited to see what works the future holds!
